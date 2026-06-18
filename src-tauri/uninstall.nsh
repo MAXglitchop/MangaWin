@@ -1,0 +1,4 @@
+!macro NSIS_HOOK_POSTUNINSTALL
+  RMDir /r /REBOOTOK "$LOCALAPPDATA\Tachidesk"
+  RMDir /r /REBOOTOK "$LOCALAPPDATA\MangaWin"
+!macroend
