@@ -2,7 +2,9 @@
 
 MangaWin is a beautifully designed, modern Windows desktop client for reading manga, manhua, and webtoons. It serves as an elegant, native-feeling frontend powered by the robust **Suwayomi-Server** (Tachidesk) backend.
 
-![MangaWin Preview](https://via.placeholder.com/1200x600?text=MangaWin+Preview)
+| Library | Global Search |
+|---------|---------------|
+| ![Library](assets/library-grid.png) | ![Global Search](assets/global-search.png) |
 
 ## 📥 Download
 
