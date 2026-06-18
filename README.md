@@ -4,6 +4,10 @@ MangaWin is a beautifully designed, modern Windows desktop client for reading ma
 
 ![MangaWin Preview](https://via.placeholder.com/1200x600?text=MangaWin+Preview)
 
+## 📥 Download
+
+Download the latest **Stable** or **Nightly (Beta)** `.exe` installer from the **[Releases Page](https://github.com/MAXglitchop/MangaWin/releases/latest)**!
+
 ---
 
 ## ✨ Features
@@ -111,3 +115,7 @@ On first launch, MangaWin downloads the Suwayomi-Server `.zip` (which bundles it
 
 **Are you willing to modify Suwayomi source code?**
 **No.** We treat Suwayomi as a black-box microservice. This ensures MangaWin can easily upgrade to future versions of Suwayomi without having to port custom Java modifications. We alter its behavior strictly through configuration files, CLI arguments, and its GraphQL API.
+
+---
+
+Copyright © 2026 Sayak Banerjee. All rights reserved.
