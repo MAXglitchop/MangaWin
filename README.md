@@ -17,7 +17,7 @@ Download the latest **Stable** or **Nightly (Beta)** `.exe` installer from the *
 - **Beautiful Native UI**: Built with React & Tailwind CSS for a fluid, dark-mode native experience with micro-animations.
 - **Advanced Reader**: Fully customizable reading experience with both Paged (LTR/RTL) and Webtoon (Vertical scroll) modes, zoom & pan, brightness control, and smart-fit scaling.
 - **Offline Reading**: Full offline support. Downloaded chapters are served locally bypassing internet requirements (and bypassing Chromium `ERR_INTERNET_DISCONNECTED` bugs).
-- **Extension Support**: Browse, install, and update manga sources from the community Keiyoushi repository.
+- **Extension Support**: Browse, install, and update manga sources from the community repository.
 - **Library Management**: Organize your manga with categories, track reading progress, and auto-sync read states.
 - **Self-Contained Executable**: Powered by Tauri. The app automatically downloads and manages its own background Java backend (Suwayomi), so users just run the `.exe` without installing Java manually.
 
